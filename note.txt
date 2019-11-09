@@ -1,0 +1,9 @@
+端口一览
+
+mall-admin后台
+10001
+mall-search 搜索
+10002
+mall-portal 前台app接口
+10003
+
