@@ -1,9 +1,13 @@
 端口一览
 
-mall-admin后台
+mall-gateway
+10000
+mall-eureka
 10001
+mall-admin后台
+10010
 mall-search 搜索
-10002
+10011
 mall-portal 前台app接口
-10003
+10012
 

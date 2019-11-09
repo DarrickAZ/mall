@@ -3,7 +3,7 @@ spring:
     active: dev #默认为开发环境
 
 server:
-  port: 10002
+  port: 10011
 
 mybatis:
   mapper-locations:
